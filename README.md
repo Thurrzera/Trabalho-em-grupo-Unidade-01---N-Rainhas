@@ -1,2 +1,14 @@
-# Trabalho-em-grupo-Unidade-01---N-Rainhas
-Trabalho em grupo Unidade 01, data de entrega 22/09/2026. Referente aos alunos da turma do curso de segurança cibernética de 2026: Arthur do Nascimento, Lenilson Maia, Sâmea Pacheco e José Augusto
+Trabalho 01 — N-Rainhas
+Implementação do problema das N-Rainhas usando recursão e backtracking.
+Como executar
+```bash
+python n\_rainhas.py
+```
+Digite o valor de `n` quando solicitado.
+O programa informa:
+quantidade de soluções;
+quantidade de passos executados.
+Observação sobre os passos
+Neste trabalho, "passos" foi definido como o número de chamadas recursivas
+mais as verificações realizadas durante a checagem de segurança de uma posição.
+Essa definição deixa a métrica objetiva e reproduzível.
